@@ -1,0 +1,15 @@
+[
+{
+  "modid": "mcecapes",
+  "name": "MCE Capes",
+  "description": "Capas cosmeticas visiveis apenas para voce (client-side), incluindo a capa MCE. Use /cape.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "authorList": ["Pietro"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
